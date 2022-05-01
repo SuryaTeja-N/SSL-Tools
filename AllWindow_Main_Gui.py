@@ -6,7 +6,6 @@ from zipfile import ZipFile
 import os,GET_PFX,code_signing_test,Credentials as secu,send_mail
 import conve
 
-sg.theme('Reds')
 
 test_txt = ""; provided_csr_window3 = ""
 
@@ -81,6 +80,8 @@ def requesting(csr_co:str):
                 mail_windo.close()
         min_window3.refresh()
     min_window3.close()
+    
+sg.theme('Reds')
 
 def window_mini1():
     info = [sg.Frame("Info",layout=[
