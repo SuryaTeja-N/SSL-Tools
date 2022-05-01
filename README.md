@@ -36,7 +36,7 @@ This Window of the project  particularly related to SSL tools which will ease th
 
 ## Contributing
 
-Contributions are always welcome!
+your Code Contributions are always welcome and respectable!
 
 See `contributing.md` for ways to get started.
 
