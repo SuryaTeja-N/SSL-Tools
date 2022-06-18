@@ -21,8 +21,7 @@ This Window of the project  particularly related to SSL tools which will ease th
 
 
 [![MIT License  ](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License   ](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License  ](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 ## Color Reference
 
@@ -66,11 +65,7 @@ https://docs.python.org/3/library/smtplib.html
 
 ## Deployment
 
-To deploy this project run
-
-```bash
-  need to install window4.exe file
-```
+need to install through windows installer
 
 
 ## Environment Variables
@@ -87,17 +82,6 @@ you no need to set any Environment variables to run this particular application 
 ## Feedback
 
 If you have any feedback, please reach out to me at neerukattusurya1@gmail.com
-
-
-## FAQ
-
-#### Is this CropShare related Window?
-
-No...!!, CropShare is still at nascent stage and not yet open-sourced and *this is just a small window related to ssl certificates stuff and made for testing GUI,smpt,touchbackresponse,e.t.c which might be useful for CropShare Application project.
-
-#### How to get Script validator credentials?
-
-It is not implemented completly.. still under testing but anyway Its not related to this ssl window. 
 
 
 ## Acknowledgements
